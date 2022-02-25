@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a country gentleman to a member of the House of Commons</title>
+            <author>T. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64287</idno>
+            <idno type="STC">Wing T61B</idno>
+            <idno type="STC">ESTC R221980</idno>
+            <idno type="EEBO-CITATION">99833222</idno>
+            <idno type="PROQUEST">99833222</idno>
+            <idno type="VID">37697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37697)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2065:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a country gentleman to a member of the House of Commons</title>
+                  <author>T. T.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.T.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons. --  Appropriations and expenditures --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:37697:1" rendition="simple:additions"/>
+            <head>A LETTER FROM A Country Gentleman to a Member of the <hi>Houſe</hi> of <hi>Commons.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AS you are an Honourable Member of the Houſe of <hi>Commons,</hi> ſo I could wiſh, that all in your Station took the ſame Care and Pains which you do; which is freely and fairly to Debate Matters with your Neighbours, Friends, Viſitants, and Others, that ſo from your Country-Men you may come to a true underſtand<g ref="char:EOLhyphen"/>ing of the State of your Country, and conſequently, be in a better Capacity to <hi>Do,</hi> or at leaſt to <hi>Move</hi> ſomething for the benefit of it at the Sitting of the Houſe: And, I too well remember, that at our laſt Meeting, we did not ſo properly Diſcourſe, as Bewail the Miſery and dangerous Condition of our Native Country, the preparation for your ſpeedy going up to Parliament, putting things in ſuch a Hurry, that we had not leiſure to enter into a juſt Reaſoning of thoſe Mat<g ref="char:EOLhyphen"/>ters, which you ſeemed then to take with ſome Regret, and upon that account, deſired me to ſend my Thoughts after you; which if I do Plainly and Impartially, I do not think I ſhall be blamed by you, whatever I may by others.</p>
+            <p>And in the Firſt place, I think it abſolutely neceſſary (and I aſſure you, I am not alone in thoſe Thoughts) That you begin with the <hi>Redreſs of Grievances,</hi> and ſee them <hi>actually Re<g ref="char:EOLhyphen"/>dreſſed,</hi>
+               <pb n="2" facs="tcp:37697:2"/> before you effectually proceed to any thing elſe. This is expected from you, not only becauſe they are now greater than ever, (as I ſhall make evident to you in the Cloſe of this Letter) but alſo becauſe if they are not Redreſs'd in the firſt place, it will moſt certainly not be done at all; for the Sign<g ref="char:EOLhyphen"/>ing the <hi>Mony Bill,</hi> will preſently put an end to the <hi>Seſſions of Parliament</hi> and leave all to be Laugh'd at, who after that com<g ref="char:EOLhyphen"/>plain of <hi>Grievances:</hi> And there are ſo many Obnoxious, not only at Court, but in all other publick Employments, that they dread nothing ſo much as the Sitting of a <hi>Parliament;</hi> and if they can once get their own turn ſerv'd, they will quickly diſcharge themſelves of you and your <hi>Complaints,</hi> as their <hi>Terror:</hi> So that if this Work be not firſt done, we muſt be content ſtill to buy our own <hi>Sorrows and Sufferings,</hi> the greateſt part of the <hi>Blame and Shame</hi> of which, will unavoydably be ſhared among you, as being our <hi>Market-men.</hi>
+            </p>
+            <p>There is no doubt, but Mony will fall under Conſideration in the Second place, if it cannot get the firſt. And here, tho I was never an Enemy to any the moſt plentiful Sup<g ref="char:EOLhyphen"/>plies, which the Neceſſity or even Conveniencies of the Nation might ſeem to require; yet, as Matters now ſtand (with humble Submiſſion to better Judgment) I think your firſt Debate ought to be not <hi>How much, but whether you ought to give any thing at all,</hi> till the State of the Nation be firſt known; for if we have not forgot that we are Chriſtians, we ought to take it for wiſe Advice which is given by our Saviour, <hi>Matt.</hi> 28.29, 30. <hi>Which of you intending to build a Tower, ſitteth not down firſt and counteth the Coſts, whether he have ſufficient to Finiſh it,</hi> &amp;c. I have ſome Months ſince ſeen an Account, by which it is plain, That not leſs than betwixt five and ſix Milions of Mony already given, is unaccountable for and Miſſing, and the Charges undefray'd, for which it was ap<g ref="char:EOLhyphen"/>pointed; if this be in the <hi>Exchequer,</hi> it is well; then ſome of the Work is done. But I fear it is not ſo well, becauſe ſo much Mony hath been Borrowed ſince; and yet that alſo ought to be made good. But beſide <hi>Borrowed Mony,</hi> the Load of which grows daily greater, and eats further on with Ex<g ref="char:EOLhyphen"/>ceſſive
+<pb n="3" facs="tcp:37697:2"/> Uſe. There muſt alſo fall under your Conſideration, the <hi>Arrears</hi> both of the <hi>Soldiers and Seamen,</hi> I mean our Coun<g ref="char:EOLhyphen"/>try Men, who Clamour loudly, and not without cauſe; as al<g ref="char:EOLhyphen"/>ſo a pretty Sum of Mony owing to Men of Civil Employ<g ref="char:EOLhyphen"/>ments, and for Commodities and Materials Bought. The <hi>Stores</hi> for the <hi>Navy</hi> muſt not be forgotten, which certainly muſt be very Low, when Complaint is made even by <hi>Procla<g ref="char:EOLhyphen"/>mation,</hi> of their <hi>Embezelment;</hi> and then there muſt be all ſorts of <hi>Arms and Amunition</hi> for the Soldiers, with which I fear, we are not very plentiouſly Stock'd, becauſe with ſuch Dili<g ref="char:EOLhyphen"/>gence we have been lately Firbuſhing up the <hi>Old caſt by Arms</hi> in the <hi>Tower.</hi> Now tho this looks already like a frightful Sum, yet there is this in it worſe, that all this is for <hi>eaten Bread,</hi> and if it were done and Paid, it would not ſet us one ſtep For<g ref="char:EOLhyphen"/>ward; for ſtill the whole Charge of the War, both by Sea and Land remains entirely to be provided for with all its Ap<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtenances. What all this may ariſe to, I will not pretend to gueſs, and a Covetous Man would be afraid to think: But if you cannot give ſufficient for all theſe Purpoſes, and (which perhaps is as hard a Matter) to ſecure it to be applied only to theſe Purpoſes, you will either give to no Purpoſe, or to very ill Purpoſe; for then it will be but Mony caſt away, and make our Condition ſo much the worſe: And if that be the Caſe, ſome think it would be no great Prudence to be free to our own Harm; for my own part where I did judge Matters to ſtand thus, I ſhould rather chuſe to imitate the <hi>Unfortunate Gameſter, and riſe with my Stock,</hi> than the mad re<g ref="char:EOLhyphen"/>ſolute Fellow, who to gratifie his Rage, flings the Helve after the Hatchet, and loſeth all.</p>
+            <q>— Furor eſt poſt omnia perdere naulum.</q>
+            <p>But now let us ſuppoſe that all this can be done, (and if a Man ſhould tell me that a Parliament can work Miracles, I would not Oppoſe him, whatever I thought) yet I know you would be willing that it ſhould be done, to the greateſt Eaſe and Satisfaction of your Country that poſſibly can be, and conſequently to that end and purpoſe, the beſt and moſt con<g ref="char:EOLhyphen"/>venient
+<pb n="4" facs="tcp:37697:3"/> ways and Methods of raiſing ſo vaſt a Sum, muſt be deliberately thought on, Diſcuſs'd and Examin'd. There have been already more <hi>Polls</hi> than in any Reign; beſides, they pinch the <hi>Mob,</hi> and may be in danger to make them <hi>Mutinous:</hi> Nor can thence any conſiderable Sum be raiſed an<g ref="char:EOLhyphen"/>ſwerable to the preſent Neceſſity. Some other little Shifts have been made uſe of, but <hi>Land Taxes</hi> have hitherto born the Burden and Heat of the Day, and doubtleſs, by many they will ſtill be thought the ſureſt Supply: But then I think it may be worth the Conſideration of thoſe who are the <hi>Re<g ref="char:EOLhyphen"/>preſentatives,</hi> and have ever been eſteemed as the <hi>Patriots of their Country,</hi> That theſe have come ſo very hard and heavy already, that many are forced to new ways and Methods of Living: And as for thoſe who either were in Debt, or had not the skill to refrain from the free Engliſh way of Living, it hath ſo dipt their Eſtates, that if <hi>Land Taxes</hi> contiue at the ſame rate, many thouſand Families in a ſhort time will be Ruined, who before lived Genteely and in good Reputa<g ref="char:EOLhyphen"/>tion: So that whatever Land may bear, I fear it cannot bear the ſame Proportions as formerly, without great Murmurings, if not further Danger and Miſchief.</p>
+            <p>Sir, Give me leave in this Critical Juncture of Affairs, to uſe the ſame Freedom which you have ever hitherto allowed me: I confeſs I have heard, that even ſome of your own Mem<g ref="char:EOLhyphen"/>bers, are now leſs favourable to theſe prodigious <hi>Land Taxes,</hi> as being not only to Heavy, but Unequal, in that they fall upon particular Men, and thoſe ſuch as make the moſt conſi<g ref="char:EOLhyphen"/>derable Party of the Nation both for Intereſt and Strength, and therefore ought not to be too much Oppreſt, whilſt others are ſpared: But for a Remedy (I wiſh it prove not worſe than the Diſeaſe) They (as I am told) propoſe a <hi>General Exciſe,</hi> which they ſay, is a thing of the greateſt Equality; becauſe then all ſorts of Men whatſoever ſhall bear their even Propor<g ref="char:EOLhyphen"/>tion according to their Expences, Employments, conditions of Life, and ways of Living. Now, I do not deny, but that in this there may be a greater Equality; but then they who talk of the <hi>Equality,</hi> ſhould conſider of the <hi>Burden,</hi> and whether by this means it do not become a greater; and it is a ſmall
+<pb n="5" facs="tcp:37697:3"/> Comfort that all Equally bare, whilſt all certainly bear more: And if this ſhould prove ſuch a Burden, as we are neither able to bear, nor yet to ſhake off, I think you ought to conſider well before you lay it on.</p>
+            <p>You cannot be ignorant how averſe the Genius of our People is to a <hi>General Exciſe,</hi> if it ſhould be granted, they would think all their <hi>Rights, Liberties, and Properties</hi> to be <hi>Sold,</hi> and that they muſt be the moſt miſerable of Slaves, if they bear it. I do remember that ſomething very like it <hi>(an Exciſe on Meat)</hi> did once paſs, but when it was de<g ref="char:EOLhyphen"/>manded, it made ſuch bloody Work in ſome Places, and ſuch Unquietneſs every where, that though there was a much better <hi>Army</hi> in <hi>England</hi> then, than now, yet the Go<g ref="char:EOLhyphen"/>vernment could never gather it, and in a very ſhort time was glad to deſiſt, and quit all claim to it. And to deal plainly with you, Sir, I would not for half your Eſtate be a Member of the Houſe, when that Tax is granted; for you muſt never more return into your Country; For when ever the enraged <hi>Mob</hi> in a mad fit get together, they will certainly endeavour to Revenge themſelves upon thoſe, whom they judge the cauſe of their Grievances, and then (if you be there) you may expect to be torn in pie<g ref="char:EOLhyphen"/>ces, to have your Houſe pull'd down, your good carried away, your Grounds driven, and all the Miſchief done that an implacable Multitude can deviſe and act.</p>
+            <p>But there is one Conſideration, which (as it ſeems to me) ought to make the <hi>Members</hi> of the <hi>Houſe of Commons</hi> more irre<g ref="char:EOLhyphen"/>conſileable Enemies to a <hi>General Exciſe,</hi> than any Men in the Kingdom whatſoever, for their great <hi>Prerogative</hi> or <hi>Privilege,</hi> (without which all the reſt would be meer Ciphers) is, that they carry the <hi>Purſe</hi> of the <hi>Nation,</hi> but if they once ſettle a <hi>Ge<g ref="char:EOLhyphen"/>neral Exciſe;</hi> They give away the <hi>Purſe</hi> and <hi>Purſe-Strings</hi> too, and there will be little need of them for the future; they may indeed be called after once or twice for Faſhion, or State, and to be decently laid aſide, but when they ſhall be found to be a uſeleſs piece of Pageantry; no Body will be long fond of the gaudy Trifle: Nor is it to any purpoſe to ſay, that Laws can<g ref="char:EOLhyphen"/>not be made without them, for though perhaps we have too
+<pb n="6" facs="tcp:37697:4"/> many already, yet if need be, a more compendious and leſs chargeable way will be found, and they themſelves, when they have given away their Intereſt, will grow aſham'd of their Employment, and comply with and agree to any <hi>new Invention or Expedient</hi> to diſcharge themſelves, and avoid being Expoſed, and this in a ſhort time a <hi>General Exciſe</hi> ſhall turn them out of Doors, overturn the Conſtitution of the Kingdom, and ſet up <hi>Arbitrary Power,</hi> by the very means we pretend to keep it out.</p>
+            <p>That the Nation is in eminent danger upon many Accounts, and from ſeveral quarters, is the Opinion of many Wiſe Men; what may be the <hi>Remedies,</hi> I will not preſume to preſcribe, but you, who are our <hi>Phyſicians,</hi> I hope, will conſult our <hi>Diſeaſe;</hi> and not, like Empyricks, try Tricks with us; for a ſmall matter now will pick your <hi>Patient</hi> over the Perch. Take heed therefore what you do, and I heartily wiſh your Counſels may be ſuch, as may tend to relief of your diſtreſted and endan<g ref="char:EOLhyphen"/>ger'd Country; but to deal plainly with you, I hear Men generally ſay, that they can entertain little hopes of you, ſo long as you tamely ſuffer our <hi>Grievances</hi> to encreaſe, in<g ref="char:EOLhyphen"/>ſtead of redreſſing them; and becauſe I have mentioned the <hi>Redreſs</hi> of <hi>Grievances</hi> as proper for the firſt Work, give me leave to mention ſome, which not I, but all Men every where complain of.</p>
+            <p>And firſt they ſay, that none of the leaſt <hi>Grievances</hi> is a<g ref="char:EOLhyphen"/>mong your ſelves, and that in one ſenſe the <hi>Parliament</hi> was never more like the <hi>Duke of Buckingham's Mother's Pump,</hi> than now; For though it often will yield no Water, unleſs ſome be firſt put into it, yet there having been plentifully poured in, it now yields ſo freely, that it is in danger to draw the Well dry. In ſhort, they ſay, that there are in<g ref="char:EOLhyphen"/>deed many honeſt, worthy, wiſe Gentlemen among you, (amongſt whom I hear none more kindly ſpoken of than your ſelf) but as they are to be commended, ſo are they to be pitied, as being overborn by ſuch a number of <hi>Pen<g ref="char:EOLhyphen"/>ſioners, Officers,</hi> and other Bigots, that they can do no good; by which means moſt of thoſe, who were intruſt<g ref="char:EOLhyphen"/>ed for their Country's Good, plainly ſell it for their pri<g ref="char:EOLhyphen"/>vate Gain.</p>
+            <pb n="7" facs="tcp:37697:4"/>
+            <p>There is alſo a fearful Complaint of an <hi>Iſſue of Blood</hi> which makes the Nation <hi>Heart-ſick</hi> already, if not timely ſtopt, will be her Death; Our Mony is continually carried away in Specie in vaſt Sums never to return again; or if any of it do, it is to our double, t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eble, quadruple Loſs and more; for Inſtance, an Hundred Pound was lately weigh<g ref="char:EOLhyphen"/>ed; it was indeed pickt, but paſſable, as Mony now goes, and by weight it amounted to Forty Nine Pound and ſome odd Shillings; which comes to paſs thus; our Miln'd Mony the <hi>Dutch</hi> melt down, and our broad Mony they both clip and waſh, and then ſend it back to us by Tale, and when any of it is returned to them, they will not take it but by Weight; and preſently return it to us by Tale, and ſo <hi>toties quoties</hi> to to the end of the Chapter: Thus they get Fifty <hi>Per Cent</hi> by every Return, and make the Lord knows how many of them in the Year, and all with our own Mony.</p>
+            <p>Another general Complaint is of ſuch Miſmanagement of Affairs, (as beſide other great Damages) makes us to bear the Charge of the War on both ſides; For whilſt our Mony goes to pay the <hi>Confederates,</hi> the <hi>French</hi> take our Ships in ſuch numbers, and to ſuch value, as is a ſhame to be ſpoken, and under ſuch Circumſtances we cannot hold long.</p>
+            <p>If you ſhould take the pains to Diſcourſe ſome of our Wiſe and Sober Merchants, I doubt you will hear of another ſad Complaint, <hi>That the very Fountain of our Trade is in danger to be ſtopt;</hi> which is a thing inconſiſtent not only with the <hi>Welfare,</hi> but even the <hi>Safety</hi> of an Iſland; The <hi>Dutch</hi> under Colour of Friendſhip (which they could never do in War) having crept in a manner into all Places of our Trade, and engroſſed to themſelves, and in this they not only coun<g ref="char:EOLhyphen"/>tenanced but encouraged, though it is not only a Loſs to the preſent, but to Future Ages, and all our Poſterity, as well as our ſelves, and ſuch as our Poverty and Contempt will make us daily feel more and more.</p>
+            <pb n="8" facs="tcp:37697:5"/>
+            <p>Add to this a lamentable Complaint, <hi>That the Laws have not their due Courſe,</hi> for by our Conſtitutions no Man what<g ref="char:EOLhyphen"/>ſoever ought to ſuffer in his Perſon or Eſtate, but by due and equal Courſe of Law, whereas now Men's very Lives are taken away to gratifie ſome Perſons <hi>Malice</hi> or <hi>Deſign,</hi> not for any offence againſt Law proved upon them; and others are heavily <hi>Fined, Puniſhed,</hi> and <hi>Impriſoned,</hi> either for <hi>Trifles,</hi> or ſuch <hi>matters as the Law takes no Cognizance of;</hi> o<g ref="char:EOLhyphen"/>thers are not ſuffered to recover their <hi>Juſt Debts</hi> and <hi>Rights,</hi> but if they be in the leaſt ſcandaliz'd to be diſaffected, though their be never ſo Juſt, and as plain as the <hi>High-way,</hi> yet they ſhall infallibly be Caſt. This is not to make Laws for a <hi>Kingdom,</hi> but a <hi>Party,</hi> and to uſe them not to do Juſtice, but <hi>Wrong;</hi> which is the greateſt <hi>Diſhonour</hi> that can be to any Nation, and will alone in Time bring certain Ruine upon it, if not corrected.</p>
+            <p>There are <hi>Manifold other Grievances,</hi> againſt which ſtrong Complaints are made, but I will trouble you no farther; becauſe I believe you cannot but be ſenſible of them, and I know you to be of a Compoſition made up of Wiſdom and Courage, with a due mixture of Pity; And I heartily wiſh, that you and your Fellow-Members of the like Qualifica<g ref="char:EOLhyphen"/>tions may be ſo happy, as by their Examples and Argu<g ref="char:EOLhyphen"/>ments to turn the Hearts of others to <hi>Compaſſionate</hi> their <hi>Bleeding Country</hi> in time, and to uſe their beſt Conſulta<g ref="char:EOLhyphen"/>tions and Endeavours to reſtore it to ſome <hi>Comfortable,</hi> or at leaſt <hi>Hopeful State,</hi> for we are upon the brink of Deſtru<g ref="char:EOLhyphen"/>ction, and in all probability without ſome ſpeedy Remedy muſt periſh. Be pleaſed to Pardon this plain and honeſt Freedom at this time, and for the Future I ſhall be leſs troubleſome to you, though I ſhall ever acknowledge my ſelf to be,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your moſt obliged and humble Servant, <hi>T. T.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
